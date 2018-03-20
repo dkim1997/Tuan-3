@@ -1,0 +1,7 @@
+D:\tuan 3\tuan 3\bin\Debug\tuan 3.exe
+D:\tuan 3\tuan 3\bin\Debug\tuan 3.pdb
+D:\tuan 3\tuan 3\obj\x86\Debug\tuan_3.Form1.resources
+D:\tuan 3\tuan 3\obj\x86\Debug\tuan_3.Properties.Resources.resources
+D:\tuan 3\tuan 3\obj\x86\Debug\tuan 3.csproj.GenerateResource.Cache
+D:\tuan 3\tuan 3\obj\x86\Debug\tuan 3.exe
+D:\tuan 3\tuan 3\obj\x86\Debug\tuan 3.pdb

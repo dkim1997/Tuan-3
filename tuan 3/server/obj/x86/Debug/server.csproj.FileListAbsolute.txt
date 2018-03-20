@@ -1,0 +1,4 @@
+D:\tuan 3\server\bin\Debug\server.exe
+D:\tuan 3\server\bin\Debug\server.pdb
+D:\tuan 3\server\obj\x86\Debug\server.exe
+D:\tuan 3\server\obj\x86\Debug\server.pdb
